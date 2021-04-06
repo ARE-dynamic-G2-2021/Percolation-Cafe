@@ -26,13 +26,13 @@ Nous sommes actuellement en 1ère année de licence à [Sorbonne Université](ht
 
 ## Description du projet
 
-Pour démontrer la théorie de la percolation, nous allons nous posé plusieurs question :
+Pour démontrer la théorie de la percolation, nous allons nous poser plusieurs questions :
 
 **Hypothèse :** 
 
-**Problématique :** En quoi la percolationjoue un rôle important dans la préparation du café ?
+**Problématique :** En quoi la percolation joue un rôle important dans la préparation du café ?
 
-**Objectifs :** Nous nous baserons sur les différents facteurs qui influent sur l'effet de la percolation et nous les utiliserons pour modéliser cette effets et nous l'appliquerons pour la cas de la préparation du café. 
+**Objectifs :** Nous nous baserons sur les différents facteurs qui influent sur l'effet de la percolation et nous les utiliserons pour modéliser cet effet et nous l'appliquerons pour le cas de la préparation du café. 
 
 **Protocole :**
 
