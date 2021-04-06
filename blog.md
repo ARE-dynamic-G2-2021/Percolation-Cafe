@@ -7,7 +7,9 @@ Ainsi, nous avons commencé à faire des recherches sûr qu'est-ce que c'est que
 
 
 
-## Semaine 2 :
+## Semaine 2 :
+
+Pendant la deuxième semaine, nous 
 
 
 
