@@ -1,6 +1,6 @@
 # Percolation 
 
-Notre projet consiste a démontré comment fonctionne la percolation du café et d'expliquer en quoi elle consiste.
+Notre projet consiste a démontrer comment fonctionne la percolation du café et d'expliquer en quoi elle consiste.
 
 ## Présentaion de l'équipe
 
