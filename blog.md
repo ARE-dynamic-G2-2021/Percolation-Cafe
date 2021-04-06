@@ -15,7 +15,7 @@ Par la suite nous nous sommes répartie les tâches, certains d'entre nous ont c
 
 **Conclusion :** Nous avons avancer sur le site web et nous avons trouver quelques modélisations en Python qui pourrait nous aider.
 
-**Documents de modélisation :** 
+**Documents trouvés pour la modélisation :** 
 <ul>
   <li>https://github.com/ussserrr/percolation-python</li>
   <li>http://www.tangentex.com/Percolation.htm</li>
