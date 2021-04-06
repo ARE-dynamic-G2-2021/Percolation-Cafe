@@ -18,8 +18,8 @@ Par la suite nous nous sommes répartie les tâches, certains d'entre nous ont c
 
 **Documents trouvés pour la modélisation :** 
 <ul>
-  <li>https://github.com/ussserrr/percolation-python</li>
-  <li>http://www.tangentex.com/Percolation.htm</li>
+  <li>[https://github.com/ussserrr/percolation-python](https://github.com/ussserrr/percolation-python)</li>
+  <li>[http://www.tangentex.com/Percolation.htm](http://www.tangentex.com/Percolation.htm)</li>
 </ul>
 
 <br>
