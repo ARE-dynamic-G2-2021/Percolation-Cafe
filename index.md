@@ -1,7 +1,7 @@
 # Percolation 
 
 **Qu'est-ce que la percolation ?** La percolation est le phénomène de passage d'un liquide dans un milieu poreux. Celui-ci dépend de plusieurs facteurs tels que la porosité du milieu mais aussi de sa densité et de sa capacité à absorber l'eau.<br>
-    Notre projet se portera sur l’étude de l’effet de percolation dans la préparation du café. Nous nous baserons sur la cafetière italienne, où le fluide est représenté par l’eau chaude et le milieu poreux par la mouture.<br>
+<div style="text-indent: 15px;">Notre projet se portera sur l’étude de l’effet de percolation dans la préparation du café. Nous nous baserons sur la cafetière italienne, où le fluide est représenté par l’eau chaude et le milieu poreux par la mouture.</div><br>
     On s’intéressera ainsi aux conséquences que peuvent porter les différents facteurs tels que la perméabilité de la mouture et de sa densité durant la procédure de percolation sur le rendement du café.
 
 [schema] 
