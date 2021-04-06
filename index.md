@@ -22,7 +22,7 @@ We will be interested about the different consequences that the factors like the
 </table>
 
 
-Nous sommes actuellement en 1ère année de licence à [Sorbonne Université](https://www.sorbonne-universite.fr/) en MIPI.
+Nous sommes actuellement en 1ère année de licence à [Sorbonne Université](https://www.sorbonne-universite.fr/) en [MIPI](http://licence.premiereannee.sorbonne-universite.fr/fr/la-licence-1ere-annee/portail-mipi.html).
 
 ## Description du projet
 
