@@ -26,15 +26,16 @@ Par la suite nous nous sommes répartie les tâches, certains d'entre nous ont c
 
 ## Semaine 3 :
 
-Cette semaine, nous avons
+Cette semaine, nous nous sommes entièrement concentré sur le carnet de bord, nous avions déjà commencé, mais il fallait que nous finissions celui-ci. Celui-ci nous a ainsi aidée à avoir plus d'information sur le sujet. Mais aussi encore une fois a trouvé d'autre modéle de percolation sur Python. 
+Nous avons aussi pu nous organiser par rapport au codage de la modélisation.
 
-**Conclusion :**
+**Conclusion :** Nous avons fini le carnet de bord.
 
 ## Semaine 4 :
 
-Cette semaine 
+Cette semaine, nous nous sommes occupé de continuer le site internet et le blog malgrès quelque soucis que nous avions eu. Nous avons aussi commencé le codage malgrès le retard que nous essayons de rattraper. Nous nous appuyons sur les sujet de modélisation qui nous ont intérresser durant la semaine 2. Nous avons un début de modélisation graphique il nous manque seulement un résultat concrés par rapport à ce que nous avions penser, vu et lu.
 
-**Conclusion :**
+**Conclusion :** Le codage avance petit à petit nous essayons d'avoir un résultat correcte.
 
 ## Conclusion du projet
 
