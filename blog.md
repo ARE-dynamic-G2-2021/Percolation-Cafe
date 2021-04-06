@@ -26,8 +26,17 @@ Par la suite nous nous sommes répartie les tâches, certains d'entre nous ont c
 
 ## Semaine 3 :
 
-Cette semaine ...
+Cette semaine, nous avons
 
+**Conclusion :**
+
+## Semaine 4 :
+
+Cette semaine 
+
+**Conclusion :**
+
+### Conclusion du projet
 
 
 
