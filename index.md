@@ -1,12 +1,12 @@
 # Percolation 
 
-Notre projet consiste a démontré ..
+Notre projet se portera sur l’étude de l’effet de percolation dans la préparation du café. Nous nous baserons sur la cafetière italienne, où le fluide est représenté par l’eau chaude et le milieu poreux par la mouture. On s’intéressera ainsi aux conséquences que peuvent porter les différents paramètres tel que la perméabilité de la mouture et la pression de l’eau durant la procédure de percolation sur le rendement du café.
 
 [schema] 
 
 ## English Version 
 
-Our project is meant to  prove that ...
+Our project is about the study of the percolation effect of the coffee preparation. Our base will be the Italian coffee maker in which the fluid will be the hot water and the porous environment will be the ground coffee. We will be interested about the differents consequences that the factors like the pression of the water and the permeability of the ground can do during the percolation, in our case the making of coffee proccess.
 
 ## Présentaion de l'équipe
 
@@ -24,11 +24,11 @@ Nous sommes actuellement en 1ère année de licence à [Sorbonne Université](ht
 
 ## Description du projet
 
-Pour démontrer .., nous allons nous posé plusieurs question :
+Pour démontrer la théorie de la percolation, nous allons nous posé plusieurs question :
 
-**Hypothèse :**
+**Hypothèse :** 
 
-**Problématique :** En quoi la percolation joue un rôle sur la production du café dans une machine à café ?
+**Problématique :** En quoi la percolationjoue un rôle important dans la préparation du café ?
 
 **Objectifs :**
 
