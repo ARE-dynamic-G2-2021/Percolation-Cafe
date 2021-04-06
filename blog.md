@@ -7,7 +7,7 @@ Ainsi, nous avons commencé à faire des recherches sûr qu'est-ce que c'est que
 
 **Conclusion :** Nous avons trouvé des documents qui nous parler de la percolation nous avons pu en apprendre plus sur notre sujet.
 
-<br><br>
+<br>
 
 ## Semaine 2 :
 
@@ -22,7 +22,7 @@ Par la suite nous nous sommes répartie les tâches, certains d'entre nous ont c
   <li>http://www.tangentex.com/Percolation.htm</li>
 </ul>
 
-<br><br>
+<br>
 
 ## Semaine 3 :
 
