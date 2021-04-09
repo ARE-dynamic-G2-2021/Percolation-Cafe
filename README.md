@@ -39,7 +39,7 @@ Pour démontrer la théorie de la percolation, nous allons nous poser plusieurs 
 **Protocole :**
 
 
-## Lien vers la page du blog : <a href="blog.html"> C'est ici ! </a>
+## Lien vers la page du blog : <a href="blog.md"> C'est ici ! </a>
 
 ## Notre école (Information about our school)
 
