@@ -53,4 +53,4 @@ Cette semaine, nous nous sommes occupé de continuer le site internet et le blog
 </a>
 
 <br><br>
-<a href="index.html"> Retour à la page principale </a>
+<a href="README.md"> Retour à la page principale </a>
