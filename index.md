@@ -4,7 +4,7 @@
     Notre projet se portera sur l’étude de l’effet de percolation dans la préparation du café. Nous nous baserons sur les cafetières, où le fluide est représenté par l’eau chaude et le milieu poreux par la mouture.<br><br>
     On s’intéressera ainsi aux conséquences que peuvent porter les différents facteurs tels que la perméabilité de la mouture et de sa densité durant la procédure de percolation sur le rendement du café.
 
-[schema] 
+<img src="./image/Coffee_Percolator_Cutaway.png" alt="Schéma de percolateur de café"> 
 
 ## English Version 
 
