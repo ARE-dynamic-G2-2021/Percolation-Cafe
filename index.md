@@ -1,3 +1,4 @@
+<div style="background-image: url(./image/logo_su.png);">
 # Percolation 
 
 **Qu'est-ce que la percolation ?** La percolation est le phénomène de passage d'un liquide dans un milieu poreux. Celui-ci dépend de plusieurs facteurs tels que la porosité du milieu mais aussi de sa densité et de sa capacité à absorber l'eau.<br><br>
