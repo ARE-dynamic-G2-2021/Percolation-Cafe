@@ -1,4 +1,11 @@
-<link rel="stylesheet" type = "text/css" href="style.css">
+<style>
+    background: url(images/coffee.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+</style>
 
 # Percolation 
 
