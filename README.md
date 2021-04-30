@@ -5,7 +5,7 @@
     On s’intéressera ainsi aux conséquences que peuvent porter les différents facteurs tels que la perméabilité de la mouture et de sa densité durant la procédure de percolation sur le rendement du café.
 
 
-[schema] 
+<img src="./image/Coffee_Percolator_Cutaway.png" alt="Schéma de percolateur de café" width="400"> 
 
 ## English Version 
 
