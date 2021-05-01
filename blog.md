@@ -1,13 +1,11 @@
 # Blog de travail effectué
 
-## Semaine 1 :
+## Semaine 1 : Recherche d'un sujet
 
-Durant la première semaine, nous avons discuté de plusieurs sujets différents jusqu'à trouver un bon sujet avec l'aide de notre professeur qui nous est intéressant et qui serait intéressant à expliquer et modéliser. Nous avons par la fin choisit d'expliquer l'effet de la percolation et nous avons choisi d'étudier la percolation pendant la préparation du café.<br>
-Ainsi, nous avons commencé à faire des recherches sûr qu'est-ce que c'est que la percolation pour en savoir plus pour connaître de quels facteurs dépend ce phénomène. Nous avons aussi essayé de trouver comment représenter le modèles de la percolation. Nous en avons trouvé beaucoup, nous nous sommes dit que nous allions trouver plusieurs documents et par la suite nous discuterions des documents qui pourraient nous intéressait.<br>
+Durant la première séance, nous sommes partis à la recherche d'un sujet qui nous intéressait tous. Nous avions tous une idée de sujet mais ils étaient tous plus ou moins réalisable. Au final, une de nos hypothèses était la théorie de la percolation, et nous avons finis par choisir notre sujet : La percolation du café.<br>
+Ainsi, nous avons commencé à faire des recherches sur le sujet. Qu’est-ce que la percolation ? Quels facteurs dépend de ce phénomène? La théorie de la percolation s’applique à tout les types de machine à café? ...<br>
 
-**Conclusion :** Nous avons trouvé des documents qui nous parler de la percolation nous avons pu en apprendre plus sur notre sujet.
-
-<br>
+**Conclusion :** Nous avons trouvé notre sujet et entamé les premières recherches documentaires.<br>
 
 ## Semaine 2 :
 
