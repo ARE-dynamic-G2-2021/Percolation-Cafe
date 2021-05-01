@@ -1,32 +1,25 @@
-# Blog de travail effectué
+# Blog : Journal de Bord
 
 ## Semaine 1 : Recherche d'un sujet
 
-Durant la première séance, nous sommes partis à la recherche d'un sujet qui nous intéressait tous. Nous avions tous une idée de sujet mais ils étaient tous plus ou moins réalisable. Au final, une de nos hypothèses était la théorie de la percolation, et nous avons finis par choisir notre sujet : La percolation du café.<br>
-Ainsi, nous avons commencé à faire des recherches sur le sujet. Qu’est-ce que la percolation ? Quels facteurs dépend de ce phénomène? La théorie de la percolation s’applique à tout les types de machine à café? ...<br>
+Durant la première séance, nous sommes partis à la recherche d'un sujet qui nous intéressait tous. Nous avions tous une idée de sujet mais ils étaient tous plus ou moins réalisable. Au final, une de nos hypothèses était la théorie de la percolation, et nous avons finis par choisir notre sujet : **La percolation du café**.<br>
+Ainsi, nous avons commencé à faire des recherches sur le sujet. Qu’est-ce que la percolation ? Quels facteurs dépend de ce phénomène? La théorie de la percolation s’applique à tout les types de machine à café? etc ...<br>
 
 **Conclusion :** Nous avons trouvé notre sujet et entamé les premières recherches documentaires.<br>
 
-## Semaine 2 :
+## Semaine 2 : Recherche documentaire
 
-Pendant la deuxième semaine, nous avons continué les recherches pour la modélisation de la percolation. Nous avons commencé aussi à expliquer quel est le but du projet, à trouver une problèmatique (En quoi la percolation joue un rôle important dans la préparation du café ?).<br>
-Par la suite nous nous sommes répartie les tâches, certains d'entre nous ont commencer à voir comment utiliser GitHub pour ne pas prendre de retard sur le site et les autres ont continué sur les recherches de modélisations.<br>
+Pendant la deuxième séance, nous avons continué les recherches sur la percolation. Nous avons également commencé à refléchir à comment modéliser notre sujet. On a d'une autre part décidé d'utiliser l'interface Tkinter pour notre modèle.<br> 
+Nous avons commencé aussi à déterminer le but de notre projet, on a ainsi pu extraire une problématique : **En quoi la percolation joue un rôle important dans la préparation du café ?**<br>
+Par la suite nous nous sommes réparties les tâches, certains d'entre nous ont commencé à utiliser GitHub pour ne pas prendre de retard sur le site et le journal de bord. Les autres ont continué sur les recherches de modélisations.<br>
 
-**Conclusion :** Nous avons avancer sur le site web et nous avons trouver quelques modélisations en Python qui pourrait nous aider.
+**Conclusion :** Nous avons créé le site web sur GitHub et nous avons principalement continué les recherches sur notre sujet.<br>
 
-**Documents trouvés pour la modélisation :** 
-<ul>
-  <li>http://www.tangentex.com/Percolation.htm</li>
-</ul>
+## Semaine 3 : Carnet de Bord
 
-<br>
+Lors de cette troisième séance, nous nous sommes entièrement concentrés sur le carnet de bord, nous avions déjà commencé chez nous, mais il fallait que nous finissions celui-ci. Le carnet de bord nous a permis de structuré nos recherches et facilité également les recherches suivantes notamment avec les bases de données à notre disposition. Nous avons aussi pu nous organisés par rapport à la programmation de notre modèle.
 
-## Semaine 3 :
-
-Cette semaine, nous nous sommes entièrement concentré sur le carnet de bord, nous avions déjà commencé, mais il fallait que nous finissions celui-ci. Celui-ci nous a ainsi aidée à avoir plus d'information sur le sujet. Mais aussi encore une fois a trouvé d'autre modéle de percolation sur Python. 
-Nous avons aussi pu nous organiser par rapport au codage de la modélisation.
-
-**Conclusion :** Nous avons fini le carnet de bord.
+**Conclusion :** Nous avons fini le carnet de bord et commencé à programmer un modèle sur la percolation du café.<br>
 
 ## Semaine 4 :
 
