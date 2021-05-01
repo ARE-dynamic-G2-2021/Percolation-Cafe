@@ -10,7 +10,8 @@ Ainsi, nous avons commencé à faire des recherches sur le sujet. Qu’est-ce qu
 ## Semaine 2 : Recherche documentaire
 
 Pendant la deuxième séance, nous avons continué les recherches sur la percolation. Nous avons également commencé à refléchir à comment modéliser notre sujet. On a d'une autre part décidé d'utiliser l'interface Tkinter pour notre modèle.<br> 
-Nous avons commencé aussi à déterminer le but de notre projet, on a ainsi pu extraire une problématique : **En quoi la percolation joue un rôle important dans la préparation du café ?**<br>
+Nous avons commencé aussi à déterminer le but de notre projet, on a ainsi pu extraire une problématique :<br>
+**En quoi la percolation joue un rôle important dans la préparation du café ?**<br>
 Par la suite nous nous sommes réparties les tâches, certains d'entre nous ont commencé à utiliser GitHub pour ne pas prendre de retard sur le site et le journal de bord. Les autres ont continué sur les recherches de modélisations.<br>
 
 **Conclusion :** Nous avons créé le site web sur GitHub et nous avons principalement continué les recherches sur notre sujet.<br>
