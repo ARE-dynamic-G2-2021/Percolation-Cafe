@@ -41,6 +41,7 @@ Pour démontrer la théorie de la percolation, nous allons nous poser plusieurs 
 
 
 Nous sommes actuellement en 1ère année de licence à [Sorbonne Université](https://www.sorbonne-universite.fr/) en [MIPI](http://licence.premiereannee.sorbonne-universite.fr/fr/la-licence-1ere-annee/portail-mipi.html).
+
 <a href = "https://www.sorbonne-universite.fr/">
  <img src="./image/logo_su.png" width="250">
 </a>
