@@ -15,27 +15,19 @@ Par la suite nous nous sommes réparties les tâches, certains d'entre nous ont 
 
 **Conclusion :** Nous avons créé le site web sur GitHub et nous avons principalement continué les recherches sur notre sujet.<br>
 
-## Semaine 3 : Carnet de Bord
+## Semaine 3 : Carnet de bord et début de programmation
 
-Lors de cette troisième séance, nous nous sommes entièrement concentrés sur le carnet de bord, nous avions déjà commencé chez nous, mais il fallait que nous finissions celui-ci. Le carnet de bord nous a permis de structuré nos recherches et facilité également les recherches suivantes notamment avec les bases de données à notre disposition. Nous avons aussi pu nous organisés par rapport à la programmation de notre modèle.
+Lors de cette troisième séance, nous nous sommes d'abord entièrement concentrés sur le carnet de bord, nous avions déjà commencé chez nous, mais il fallait que nous finissions celui-ci. Le carnet de bord nous a permis de structuré nos recherches et facilité également les recherches suivantes notamment avec les bases de données à notre disposition. Nous avons aussi pu nous organisés par rapport à la programmation de notre modèle.
 
-**Conclusion :** Nous avons fini le carnet de bord et commencé à programmer un modèle sur la percolation du café.<br>
+**Conclusion :** Nous avons fini le carnet de bord et commencé à programmer un modèle sur la percolation.<br>
 
-## Semaine 4 :
+## Semaine 4 : Programmation
 
-Cette semaine, nous nous sommes occupé de continuer le site internet et le blog malgrès quelque soucis que nous avions eu. Nous avons aussi commencé le codage malgrès le retard que nous essayons de rattraper. Nous nous appuyons sur les sujet de modélisation qui nous ont intérresser durant la semaine 2. Nous avons un début de modélisation graphique il nous manque seulement un résultat concrés par rapport à ce que nous avions penser, vu et lu.
+Durant cette quatrième séance, nous nous sommes occupé d'avancer sur le programme. Malgré un début de programmation tardif, nous essayons de rattraper notre retard, notamment en avançant plus chez nous.<br>
+Nous avions alors à cette séance un bon début de code mais avec pas mal d'erreur, notre modèle ne fonctionnait pas. Finalement, nous avons avancé sur notre programme, et également corrigés toutes les erreurs. Nous avons alors une première version de notre modèle sur Tkinter.<br>
+Arrivé au terme de notre séance, nous nous sommes réparties les tâches afin de terminer notre programme, finir le site web et également faire le diaporama PDF pour la présentation orale.<br>
 
-**Conclusion :** Le codage avance petit à petit nous essayons d'avoir un résultat correcte.
-
-## Conclusion du projet
-
-
-
-
-
-
-
-
+**Conclusion :** Notre modèle prend forme, quelques modifications à prévoir sur notre programme et nous préparons la présentation orale du 04 mai.
 
 
 <a href = "https://www.sorbonne-universite.fr/">
