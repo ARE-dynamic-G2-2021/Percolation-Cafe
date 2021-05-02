@@ -17,7 +17,7 @@ Le modèle théorique de la percolation est utilisé dans beaucoup d'autres doma
 
 Il existe un seuil critique de percolation. Si la probabilité est inférieure à ce seuil, il n'y a jamais percolation et si elle est supérieure à ce seuil, il y a toujours percolation. Le seuil critique théorique de percolation est de 0.592746.<br>
 
-Le but de notre simulation est alors d’approcher de ce seuil critique de percolation avec et le percolateur à café. Ici le fluide est représenté par l'eau chaude et le milieu poreux par la mouture de café.<br>
+Le but de notre simulation est alors d’approcher de ce seuil critique de percolation avec le percolateur à café. Ici le fluide est représenté par l'eau chaude et le milieu poreux par la mouture de café.<br>
 
 <img src="./image/Coffee_Percolator_Cutaway.png" alt="Schéma de percolateur de café" width="400"> 
 
