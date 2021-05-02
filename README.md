@@ -46,7 +46,7 @@ Dans le cas d'un expresso par exemple, la percolation se fait très rapidement, 
 
 ## Lien vers la page du blog : <a href="blog.md"> C'est ici ! </a>
 
-## Présentaion de l'équipe
+## Présentation de l'équipe
 
 <table>
     <tr>
