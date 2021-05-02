@@ -12,7 +12,7 @@
     Our project is about the study of the percolation effect of the coffee preparation. Our base will be the coffee maker in which the fluid will be the hot water and the porous environment will be the ground coffee.<br><br>
     We will be interested about the different consequences that the factors like the permeability of the ground and its density can do during the percolation, in our case the process of making coffee.
 
-## Présentaion de l'équipe
+## Présentation de l'équipe
 
 <table>
     <tr>
