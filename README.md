@@ -19,7 +19,7 @@ Il existe un seuil critique de percolation. Si la probabilité est inférieure �
 
 Le but de notre simulation est alors d’approcher de ce seuil critique de percolation avec le percolateur à café. Ici le fluide est représenté par l'eau chaude et le milieu poreux par la mouture de café.<br>
 
-<img src="./image/Coffee_Percolator_Cutaway.png" alt="Schéma de percolateur de café" width="400"> 
+<img src="./image/schema_percolation.jpg" alt="Schéma de percolateur de café" width="320"> 
 
 On s’intéressera ainsi aux conséquences que peuvent porter les différents facteurs tels que la perméabilité de la mouture et de sa densité durant la procédure de percolation sur le rendement du café.
 
