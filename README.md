@@ -4,7 +4,7 @@ Le café est l’une des boissons les plus consommées dans le monde. Cependant,
 
 <img src="./image/les_cafetiere_perco.png" alt="Les Types de cafetières" width="489"> 
 
-Nous nous intéressons au percolateur à café. En effet, cette machine à café utilise un phénomène bien répandu, la théorie de la percolation.<br>
+Nous nous intéressons alors à deux types de cafetière, la cafetière italienne et le percolateur à café. En effet, ces deux machines à café utilisent un phénomène bien répandu pour faire le café, **la théorie de la percolation**.<br>
 
 
 # Le sujet
@@ -13,15 +13,15 @@ Nous nous intéressons au percolateur à café. En effet, cette machine à café
 
 Par exemple, lorsqu'on parle de l'infiltration des eaux de pluie dans les nappes phréatiques, on suppose que l'eau s'écoule dans la roche, mais encore faut-il que cette roche soit suffisamment poreuse pour le permettre. La théorie de la percolation permet de déterminer la porosité suffisante pour le permettre.<br>
 
+Il existe un seuil critique de percolation. Si la probabilité est inférieure à ce seuil, il n'y a jamais percolation et si elle est supérieure à ce seuil, il y a toujours percolation. Le **seuil critique théorique de percolation est de 0.592746**.<br>
+
 Le modèle théorique de la percolation est utilisé dans beaucoup d'autres domaines : la simulation de la propagation des épidémies ou des feux de forêts par exemple.<br>
 
-Il existe un seuil critique de percolation. Si la probabilité est inférieure à ce seuil, il n'y a jamais percolation et si elle est supérieure à ce seuil, il y a toujours percolation. Le seuil critique théorique de percolation est de 0.592746.<br>
-
-Le but de notre simulation est alors d’approcher de ce seuil critique de percolation avec le percolateur à café. Ici le fluide est représenté par l'eau chaude et le milieu poreux par la mouture de café.<br>
+Le but de notre simulation est alors d’approcher de ce seuil critique de percolation avec le percolateur à café. Ici, le fluide est représenté par l'eau chaude et le milieu poreux par la mouture de café.<br>
 
 <img src="./image/schema_percolation.jpg" alt="Schéma de percolateur de café" width="320"> 
 
-On s’intéressera ainsi aux conséquences que peuvent porter les différents facteurs tels que la perméabilité de la mouture et de sa densité durant la procédure de percolation sur le rendement du café.
+On s’intéressera ainsi aux conséquences que peuvent porter les différents facteurs tels que la perméabilité et la densité de lka mouture sur le rendement du café.
 
 
 # Le modèle
