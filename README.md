@@ -33,6 +33,11 @@ Lien vers le programme complet : <a href=""> C'est ici ! </a>
 
 # La simulation
 # Analyse critique
+
+Dans le cas de la cafetière à filtre, la dilution de l'eau dans le café prend plus de temps, et donc les arômes sont plus concentrés.<br>
+
+Dans le cas d'un expresso par exemple, la percolation se fait très rapidement, ne laissant pas la concentration en arôme prendre de l'ampleur. Bien sûr, il est possible d'ajuster cette concentration en utilisant une quantité de mouture plus importante pour une quantité d'eau moindre.<br>
+
 # Perspectives et conclusion
 
 ## Lien vers la page du blog : <a href="blog.md"> C'est ici ! </a>
