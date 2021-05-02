@@ -44,7 +44,7 @@ Dans le cas d'un expresso par exemple, la percolation se fait très rapidement, 
 
 # Perspectives et conclusion
 
-## Lien vers la page du blog : <a href="blog.md"> C'est ici ! </a>
+## Lien vers la page du blog : <a href="https://are-dynamic-g2-2021.github.io/Percolation-Cafe/blog"> C'est ici ! </a>
 
 ## Présentation de l'équipe
 
