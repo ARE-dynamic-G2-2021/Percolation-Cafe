@@ -17,13 +17,11 @@ Il existe un seuil critique de percolation. Si la probabilité est inférieure �
 
 Le modèle théorique de la percolation est utilisé dans beaucoup d'autres domaines : la simulation de la propagation des épidémies ou des feux de forêts par exemple.<br>
 
-Le but de notre simulation est alors d’approcher de ce seuil critique de percolation avec le percolateur à café. Ici, le fluide est représenté par l'eau chaude et le milieu poreux par la mouture de café.<br>
-
 Ci-dessous est représenté un schéma de fonctionnement de la cafetière italienne. La cafetière italienne permet d’obtenir des cafés espresso. Elle se compose de trois parties distinctes: le réservoir d’eau (partie basse de la cafetière), le filtre (où l’on dépose la mouture de café) et pour finir la partie haute de la cafetière où s’écoulera le café. Il suffit donc de remplir le réservoir d’eau, le filtre de café moulu et de mettre la cafetière à chauffer. L’eau va commencer à bouillir, la pression augmente et pousse la vapeur d’eau dans l'entonnoir vers la mouture. La vapeur d'eau percole à travers le café moulu et finit dans le compartiment supérieur sous forme de café.<br>
 
 <img src="./image/schema_percolation.jpg" alt="Schéma de percolateur de café" width="320"> 
 
-On s’intéressera ainsi aux conséquences que peuvent porter les différents facteurs tels que la perméabilité et la densité de la mouture sur le rendement du café.
+Le but de notre simulation est alors d’approcher le seuil critique de percolation avec le percolateur à café. Ici, le fluide est représenté par l'eau chaude et le milieu poreux par la mouture de café. On s’intéressera ainsi aux conséquences que peuvent porter les différents facteurs tels que la perméabilité et la densité de la mouture sur le rendement du café.
 
 
 # Le modèle
