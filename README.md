@@ -38,7 +38,7 @@ Pour démontrer la théorie de la percolation, nous allons nous poser plusieurs 
 
 **Protocole :**
 
-
+## Lien vers le site web : <a href="https://are-dynamic-g2-2021.github.io/Percolation-Cafe/"> C'est ici ! </a>
 ## Lien vers la page du blog : <a href="blog.html"> C'est ici ! </a>
 
 ## Notre école (Information about our school)
