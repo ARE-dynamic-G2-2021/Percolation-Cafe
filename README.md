@@ -2,6 +2,9 @@
 
 Le café est l’une des boissons les plus consommées dans le monde. Cependant, il existe de nombreux cafés différents les uns des autres, comme le café noir, l’espresso, le cappuccino et des dizaines d’autres encore. Ces cafés sont d’abord différents par le grain de café utilisé mais également et principalement par la machine à café utilisée. En effet il existe plus d’une dizaine de types de machines à cafés différentes. Chaque machine à café possède une méthode d’élaboration propre, et donc un résultat différent.<br>
 
+<p align="center">
+  <img width="800" height="489" src="./image/les_cafetiere_perco.png">
+</p>
 <img src="./image/les_cafetiere_perco.png" alt="Les Types de cafetières" width="489"> 
 
 Nous nous intéressons alors à deux types de cafetière, la cafetière italienne et le percolateur à café. En effet, ces deux machines à café utilisent un phénomène bien répandu pour faire le café, **la théorie de la percolation**.<br>
@@ -22,7 +25,6 @@ Ci-dessous est représenté un schéma de fonctionnement de la cafetière italie
 <p align="center">
   <img width="512" height="320" src="./image/schema_percolation.jpg">
 </p>
-
 
 Le but de notre simulation est alors d’approcher le seuil critique de percolation avec le percolateur à café. Ici, le fluide est représenté par l'eau chaude et le milieu poreux par la mouture de café. On s’intéressera ainsi aux conséquences que peuvent porter les différents facteurs tels que la perméabilité et la densité de la mouture sur le rendement du café.
 
