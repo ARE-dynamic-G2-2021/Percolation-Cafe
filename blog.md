@@ -36,4 +36,4 @@ Arrivé au terme de notre séance, nous nous sommes réparties les tâches afin 
 </a>
 
 <br><br>
-<a href="README.md"> Retour à la page principale </a>
+<a href="https://are-dynamic-g2-2021.github.io/Percolation-Cafe/"> Retour à la page principale </a>
