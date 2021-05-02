@@ -2,7 +2,7 @@
 
 Le café est l’une des boissons les plus consommées dans le monde. Cependant, il existe de nombreux cafés différents les uns des autres, comme le café noir, l’espresso, le cappuccino et des dizaines d’autres encore. Ces cafés sont d’abord différents par le grain de café utilisé mais également et principalement par la machine à café utilisée. En effet il existe plus d’une dizaine de types de machines à cafés différentes. Chaque machine à café possède une méthode d’élaboration propre, et donc un résultat différent.<br>
 
-<img src="./image/les_cafetiere.jpg" alt="Les Types de cafetières" width="600"> 
+<img src="./image/les_cafetieres.png" alt="Les Types de cafetières" width="229"> 
 
 Nous nous intéressons au percolateur à café. En effet, cette machine à café utilise un phénomène bien répandu, la théorie de la percolation.<br>
 
