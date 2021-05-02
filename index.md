@@ -32,7 +32,7 @@ Le but de notre simulation est alors d’approcher le seuil critique de percolat
 
 On a créé aini un programme en Python permettant de modéliser à l'aide d'une fenêtre Tkinter le phénomène de percolation du café.<br>
 
-Lien vers le programme complet : <a href="perco_tkinter.py"> C'est ici ! </a>
+Lien vers le programme complet : <a href="https://github.com/ARE-dynamic-G2-2021/Percolation-Cafe/blob/gh-pages/perco_tkinter.py"> C'est ici ! </a>
 
 
 # La simulation
