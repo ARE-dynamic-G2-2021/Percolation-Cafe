@@ -58,6 +58,7 @@ Dans le cas d'un expresso par exemple, la percolation se fait très rapidement, 
 # Perspectives et conclusion
 
 Dans notre simulation, nous n'avons pas pris en compte les facteurs tel que la température (la température fait dépendre le gout du café c'est ce qu'on appelle la lixiviation) et la pression (elle joue un rôle assez important pour la préparation de certains types de café tel que l'Espresso). Ces deux facteurs sont assez compliqués de représenter dans des simulations comme les notres donc nous avons décidé de faire une simulation dans ces facteurs. <br>
+
 On dévie aussi de la réalité car nous ajoutons l'eau sur toute la partie haute du café pour pouvoir constater plus facilement l'effet de la percolation dans le café. <br>
 
 
