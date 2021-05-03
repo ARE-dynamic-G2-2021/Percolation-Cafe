@@ -62,7 +62,9 @@ Dans le cas d'un expresso par exemple, la percolation se fait très rapidement, 
 **Nous avons pris en compte différents facteurs pour notre simulation, chacun modifie la simulation de façon différentes** : <br>
 
 Nous avons pour commencer la taille des graines de café, par exemple plus les graines sont petites plus le café à un arôme plus affiné, au contraire plus les graines sont grandes plus on obtiens un arôme plus fade.<br>
+
 Il y a aussi le volume de la mouture de café, celui-ci plus il est volumineux plus le rendement sera élevé et le café sera plus concentré. Mais lorsqu'il est moins volumineux alors on a un café avec un rendement moindre et un café moins concentré.<br>
+
 Nous avons aussi prix un facteurs théorique qui est la densité des graines de café, quand la densité est élevé la percolation ne se passe pas correctement, elle peut même ne pas étre réalisé. Dans le cas contraire la percolation se passera beaucoup plus facilement.<br>
 
 
