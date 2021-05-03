@@ -32,15 +32,14 @@ Nous sommes actuellement en 1ère année de licence à [Sorbonne Université](ht
 
 Pour démontrer la théorie de la percolation, nous allons nous poser plusieurs questions :
 
-**Hypothèse :** 
-
 **Problématique :** En quoi la percolation joue un rôle important dans la préparation du café ?
 
 **Objectifs :** Nous nous baserons sur les différents facteurs qui influent sur l'effet de la percolation et nous les utiliserons pour modéliser cet effet et nous l'appliquerons pour le cas de la préparation du café. 
 
-**Protocole :**
 
 ## Lien vers le site web : <a href="https://are-dynamic-g2-2021.github.io/Percolation-Cafe/"> C'est ici ! </a>
+
+
 ## Lien vers la page du blog : <a href="https://are-dynamic-g2-2021.github.io/Percolation-Cafe/blog"> C'est ici ! </a>
 
 ## Notre école (Information about our school)
