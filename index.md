@@ -54,6 +54,14 @@ Lien vers le programme complet : <a href="https://github.com/ARE-dynamic-G2-2021
 
 # La simulation
 
+Voici une vidéo contenant plusieurs exemple de percolation : 
+
+<iframe src="https://drive.google.com/drive/u/0/folders/101YaDpm7RK8MFekm56XeVV_nVnuYmzc1" 
+    width="560" 
+    height="315"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 
 
 # Analyse critique
