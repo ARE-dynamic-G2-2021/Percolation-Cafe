@@ -56,7 +56,7 @@ Lien vers le programme complet : <a href="https://github.com/ARE-dynamic-G2-2021
 
 Voici une vidéo contenant plusieurs exemple de percolation : <br>
 
-!video[simulation]( ./image/Simulation.mp4 ){ size=10 }
+!video[simulation]( https://r5---sn-25glenes.c.drive.google.com/videoplayback?expire=1620080464&ei=ED-QYI_MGMu2hwavxZuoDw&ip=2a01:e0a:5f:87d0:946c:8ddd:933b:9e68&cp=QVRHUkFfT1RURVhPOjFBTHpReExwMXM3NGJSeGljdXN6Q205aGo2UDVQYl9lS1I5V05wMW1XOTQ&id=28744ab5dd90c29c&itag=22&source=webdrive&requiressl=yes&mh=hI&mm=32&mn=sn-25glenes&ms=su&mv=u&mvi=5&pl=50&ttl=transient&susc=dr&driveid=1-IAt8o_T80jAnik0fA1yfj3Hs2PU1dwx&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=73.862&lmt=1620065094970250&mt=1620065517&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgTKlifdQYhkv2DyngtLdBJ91bES-kVD_u79FxNoVKVgwCIQDDi3xsEB5I5XYwWLJVQ_J3DdERnYPs6l_eJGw6F7KNig==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgNhzqr4Od0S_HK_19Y4Bnqfo5ZIyz7m0M57I68E2VGHACIQDydL01nCTHKExLVn09U8zdmdhWU7Bbnls_t37Zy8A6tQ==&cpn=PyQDGGcIU29b71Eh&c=WEB_EMBEDDED_PLAYER&cver=1.20210428.1.1 ){ size=10 }
 <video src="./image/Simulation.mp4" width="320" height="200" controls preload></video>
 
 Voici une vidéo contenant plusieurs exemple de  non percolation :
