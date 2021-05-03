@@ -45,7 +45,7 @@ On a créé aini un programme en Python permettant de modéliser à l'aide d'une
 Voici à quoi ressemble notre simulation :<br>
 
 <p align="center">
-  <img src="./image/modele.png">
+  <img width="650" src="./image/modele.png">
 </p>
 <br>
 
