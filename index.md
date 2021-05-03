@@ -3,7 +3,7 @@
 Le café est l’une des boissons les plus consommées dans le monde. Cependant, il existe de nombreux cafés différents les uns des autres, comme le café noir, l’espresso, le cappuccino et des dizaines d’autres encore. Ces cafés sont d’abord différents par le grain de café utilisé mais également et principalement par la machine à café utilisée. En effet il existe plus d’une dizaine de types de machines à cafés différentes. Chaque machine à café possède une méthode d’élaboration propre, et donc un résultat différent.<br>
 
 <p align="center">
-  <img   src="./image/les_cafetieres.png">
+  <img width="500"  src="./image/les_cafetiere_perco.png">
 </p>
 
 Nous nous intéressons alors à deux types de cafetière, la cafetière italienne et le percolateur à café. En effet, ces deux machines à café utilisent un phénomène bien répandu pour faire le café, **la théorie de la percolation**.<br>
@@ -83,7 +83,9 @@ Dans notre simulation, nous n'avons pas pris en compte les facteurs tel que la t
 
 On dévie aussi de la réalité car nous ajoutons l'eau sur toute la partie haute du café pour pouvoir constater plus facilement l'effet de la percolation dans le café. <br>
 
-
+Pour conclure, la percolation est un phénoméne très commun qui est étudié dans plusieurs domaines scientifique. Nous simulation si limite à une représentation en 2D, d'ou les seuils de percolation assez exigeants.
+Notre simulation de percolateur de café est très spécifique du a ces certaines limites au niveau des facteurs.
+Nous voyons donc que grâce la taille des graines de café, leur volume et leur densité on peut savoir s'il y a percolation et en combien de temps.
 
 ## Lien vers la page du blog : <a href="https://are-dynamic-g2-2021.github.io/Percolation-Cafe/blog"> C'est ici ! </a>
 
