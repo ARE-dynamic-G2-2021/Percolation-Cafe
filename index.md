@@ -55,6 +55,13 @@ Dans le cas de la cafetière à filtre, la dilution de l'eau dans le café prend
 
 Dans le cas d'un expresso par exemple, la percolation se fait très rapidement, ne laissant pas la concentration en arôme prendre de l'ampleur. Bien sûr, il est possible d'ajuster cette concentration en utilisant une quantité de mouture plus importante pour une quantité d'eau moindre.<br>
 
+## Nous avons pris en compte différents facteurs pour notre simulation, chacun modifie la simulation de façon différentes.
+
+Nous avons pour commencer la taille des graines de café, par exemple plus les graines sont petites plus le café à un arôme plus affiné, au contraire plus les graines sont grandes plus on obtiens un arôme plus fade.<br>
+Il y a aussi le volume de la mouture de café, celui-ci plus il est volumineux plus le rendement sera élevé et le café sera plus concentré. Mais lorsqu'il est moins volumineux alors on a un café avec un rendement moindre et un café moins concentré.<br>
+Nous avons aussi prix un facteurs théorique qui est la densité des graines de café, quand la densité est élevé la percolation ne se passe pas correctement, elle peut même ne pas étre réalisé. Dans le cas contraire la percolation se passera beaucoup plus facilement.<br>
+
+
 # Perspectives et conclusion
 
 Dans notre simulation, nous n'avons pas pris en compte les facteurs tel que la température (la température fait dépendre le gout du café c'est ce qu'on appelle la lixiviation) et la pression (elle joue un rôle assez important pour la préparation de certains types de café tel que l'Espresso). Ces deux facteurs sont assez compliqués de représenter dans des simulations comme les notres donc nous avons décidé de faire une simulation dans ces facteurs. <br>
