@@ -2,13 +2,13 @@
 
 **Qu'est-ce que la percolation ?** La percolation est le phénomène de passage d'un liquide dans un milieu poreux. Celui-ci dépend de plusieurs facteurs tels que la porosité du milieu mais aussi de sa densité et de sa capacité à absorber l'eau.<br><br>
     Notre projet se portera sur l’étude de l’effet de percolation dans la préparation du café. Nous nous baserons sur les cafetières, où le fluide est représenté par l’eau chaude et le milieu poreux par la mouture.<br><br>
-    On s’intéressera ainsi aux conséquences que peuvent porter les différents facteurs tels que la perméabilité de la mouture et de sa densité durant la procédure de percolation sur le rendement du café.
+    On s’intéressera ainsi aux conséquences que peuvent porter les différents facteurs tels que la finesse de la mouture et sa densité durant la procédure de percolation, cette dernière ayant un impact direct sur le goût du café.
     
 ## English Version 
 
-**What is the percolation ?** The percolation is the phenomenon of the liquid trespassing in a porous environment. This phenomenon depends on several factors like the porosity, the density of the environment and its capacity to absorb the water. <br><br>
-    Our project is about the study of the percolation effect of the coffee preparation. Our base will be the coffee maker in which the fluid will be the hot water and the porous environment will be the ground coffee.<br><br>
-    We will be interested about the different consequences that the factors like the permeability of the ground and its density can do during the percolation, in our case the process of making coffee.
+**What is the percolation ?** Percolation refers to the movement and filtering of fluids through porous materials. This phenomenon depends on several factors such as the porosity, the density of the environment and its capacity to absorb water. <br><br>
+    Our project will focus on the effects of percolation while brewing coffee. Hence we will simulate a coffe percolator in which the fluid is represented by hot water and the porous environment by ground coffee.<br><br>
+    We will study the various consequences of some parameters such as coffee grind size and its density could have for the percolation process, which in turn affects the taste of our coffee.
 
 ## Présentation de l'équipe
 
@@ -37,7 +37,7 @@ Pour démontrer la théorie de la percolation, nous allons nous poser plusieurs 
 
 ## Lien vers la page du blog : <a href="https://are-dynamic-g2-2021.github.io/Percolation-Cafe/blog"> C'est ici ! </a>
 
-## Notre école (Information about our school)
+## Notre Université (Our University)
 
 <a href = "https://www.sorbonne-universite.fr/">
  <img src="./image/logo_su.png" width="250">
