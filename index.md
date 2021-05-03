@@ -72,14 +72,14 @@ Dans le cas d'un espresso par exemple, la percolation se fait très rapidement, 
 
 Nous avons pour commencer déterminé la taille des graines de café, en effet plus les graines sont petites plus le café à un arôme plus affiné, au contraire plus les graines sont grandes plus on obtient un arôme plus fade.<br>
 
-Il y a également le volume de la mouture de café, celui-ci plus il est volumineux plus le rendement sera élevé et le café sera plus concentré. Mais lorsqu'il est moins volumineux alors on a un café avec un rendement moindre et un café moins concentré.<br>
+Il y a également le volume de la mouture de café qui entre en jeu, plus la mouture est volumineuse, plus le rendement sera élevé et le café sera plus concentré. Mais lorsqu'elle est moins volumineuse, on obtient un café avec un rendement moindre et un café moins concentré.<br>
 
 Nous avons aussi pris un facteur théorique qui est la densité des graines de café, quand la densité est élevé la percolation ne se passe pas correctement, elle peut même ne pas être réalisé. Dans le cas contraire la percolation se passera beaucoup plus facilement.<br>
 
 
 # Perspectives et conclusion
 
-Dans notre simulation, nous n'avons pas pris en compte les facteurs tel que la température (la température fait dépendre le gout du café c'est ce qu'on appelle la lixiviation) et la pression (elle joue un rôle assez important pour la préparation de certains types de café tel que l'Espresso). Ces deux facteurs sont assez compliqués de représenter dans des simulations comme les notres donc nous avons décidé de faire une simulation dans ces facteurs. <br>
+Dans notre simulation, nous n'avons pas pris en compte les facteurs tel que la température (le goût du café dépend également de la température, c'est ce qu'on appelle la lixiviation) et  la pression ( la pression joue un rôle assez important pour la préparation de certains types de café tel que l'Espresso). Ces deux facteurs sont assez compliqués de représenter dans des simulations comme les notres, on les a alors négligés. <br>
 
 On dévie aussi de la réalité car nous ajoutons l'eau sur toute la partie haute du café pour pouvoir constater plus facilement l'effet de la percolation dans le café. <br>
 
