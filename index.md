@@ -29,7 +29,7 @@ Il existe un seuil critique de percolation. Si la probabilité est inférieure �
 
 Le modèle théorique de la percolation est utilisé dans beaucoup d'autres domaines : la simulation de la propagation des épidémies ou des feux de forêts par exemple.<br>
 
-Ci-dessous est représenté un schéma de fonctionnement de la cafetière italienne. La cafetière italienne permet d’obtenir des cafés espresso. Elle se compose de trois parties distinctes: le réservoir d’eau (partie basse de la cafetière), le filtre (où l’on dépose la mouture de café) et pour finir la partie haute de la cafetière où s’écoulera le café. Il suffit donc de remplir le réservoir d’eau, le filtre de café moulu et de mettre la cafetière à chauffer. L’eau va commencer à bouillir, la pression augmente et pousse la vapeur d’eau dans l'entonnoir vers la mouture. La vapeur d'eau percole à travers le café moulu et finit dans le compartiment supérieur sous forme de café.<br>
+Ci-dessous est représenté un schéma de fonctionnement de la cafetière italienne. La cafetière italienne permet d’obtenir des cafés espresso. Elle se compose de trois parties distinctes: le réservoir d’eau (partie basse de la cafetière), le filtre (où l’on dépose la mouture de café) et pour finir la partie haute de la cafetière où s’écoulera le café. Il suffit donc de remplir le réservoir d’eau, le filtre de café moulu et de mettre la cafetière à chauffer. L’eau va commencer à bouillir, la pression augmente et pousse la vapeur d’eau dans l'entonnoir vers la mouture. La vapeur d'eau percole à travers le café moulu et fini dans le compartiment supérieur sous forme de café.<br>
 
 <p align="center">
   <img width="512" height="320" src="./image/schema_percolation.jpg">
@@ -40,7 +40,7 @@ Le but de notre simulation est alors d’approcher le seuil critique de percolat
 
 # Le modèle
 
-On a créé aini un programme en Python permettant de modéliser à l'aide d'une fenêtre Tkinter le phénomène de percolation du café.<br>
+On a créé ainsi un programme en Python permettant de modéliser à l'aide d'une fenêtre Tkinter le phénomène de percolation du café.<br>
 
 Voici à quoi ressemble notre simulation :<br>
 
@@ -54,11 +54,11 @@ Lien vers le programme complet : <a href="https://github.com/ARE-dynamic-G2-2021
 
 # La simulation
 
-Voici une vidéo contenant plusieurs exemple de percolation : <br>
+Voici une vidéo contenant plusieurs exemples de percolation : <br>
 
 <video src="./image/Simulation.mp4" width="640" height="400" controls="" preload=""></video>
 
-Voici une vidéo contenant plusieurs exemple de  non percolation :
+Voici une vidéo contenant plusieurs exemples de  non-percolation :
 
 <video src="./image/simulation_pas_percolation.mp4" width="640" height="400" controls="" preload=""></video>
 
@@ -66,15 +66,15 @@ Voici une vidéo contenant plusieurs exemple de  non percolation :
 
 Dans le cas de la cafetière à filtre, la dilution de l'eau dans le café prend plus de temps, et donc les arômes sont plus concentrés.<br>
 
-Dans le cas d'un expresso par exemple, la percolation se fait très rapidement, ne laissant pas la concentration en arôme prendre de l'ampleur. Bien sûr, il est possible d'ajuster cette concentration en utilisant une quantité de mouture plus importante pour une quantité d'eau moindre.<br>
+Dans le cas d'un espresso par exemple, la percolation se fait très rapidement, ne laissant pas la concentration en arôme prendre de l'ampleur. Bien sûr, il est possible d'ajuster cette concentration en utilisant une quantité de mouture plus importante pour une quantité d'eau moindre.<br>
 
-**Nous avons pris en compte différents facteurs pour notre simulation, chacun modifie la simulation de façon différentes** : <br>
+**Nous avons pris en compte différents facteurs pour notre simulation, chacun modifie la simulation de façon différente** : <br>
 
-Nous avons pour commencer la taille des graines de café, par exemple plus les graines sont petites plus le café à un arôme plus affiné, au contraire plus les graines sont grandes plus on obtiens un arôme plus fade.<br>
+Nous avons pour commencer déterminé la taille des graines de café, en effet plus les graines sont petites plus le café à un arôme plus affiné, au contraire plus les graines sont grandes plus on obtient un arôme plus fade.<br>
 
-Il y a aussi le volume de la mouture de café, celui-ci plus il est volumineux plus le rendement sera élevé et le café sera plus concentré. Mais lorsqu'il est moins volumineux alors on a un café avec un rendement moindre et un café moins concentré.<br>
+Il y a également le volume de la mouture de café, celui-ci plus il est volumineux plus le rendement sera élevé et le café sera plus concentré. Mais lorsqu'il est moins volumineux alors on a un café avec un rendement moindre et un café moins concentré.<br>
 
-Nous avons aussi prix un facteurs théorique qui est la densité des graines de café, quand la densité est élevé la percolation ne se passe pas correctement, elle peut même ne pas étre réalisé. Dans le cas contraire la percolation se passera beaucoup plus facilement.<br>
+Nous avons aussi pris un facteur théorique qui est la densité des graines de café, quand la densité est élevé la percolation ne se passe pas correctement, elle peut même ne pas être réalisé. Dans le cas contraire la percolation se passera beaucoup plus facilement.<br>
 
 
 # Perspectives et conclusion
