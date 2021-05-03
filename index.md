@@ -56,6 +56,7 @@ Lien vers le programme complet : <a href="https://github.com/ARE-dynamic-G2-2021
 
 Voici une vidéo contenant plusieurs exemple de percolation : <br>
 
+!video[simulation]( ./image/Simulation.mp4 ){ size=10 }
 <video src="./image/Simulation.mp4" width="320" height="200" controls preload></video>
 
 Voici une vidéo contenant plusieurs exemple de  non percolation :
