@@ -50,7 +50,7 @@ Lien vers le programme complet : <a href="https://github.com/ARE-dynamic-G2-2021
 Voici à quoi ressemble notre simulation :
 
 <p align="center">
-  <img width="512"  src="./image/simulation.png">
+  <img width="520"  src="./image/simulation.png">
 </p>
 
 # Analyse critique
