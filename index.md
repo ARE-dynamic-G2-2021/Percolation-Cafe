@@ -60,6 +60,7 @@ Voici une vidéo contenant plusieurs exemple de percolation : <br>
 
 Voici une vidéo contenant plusieurs exemple de  non percolation :
 
+<video src="./image/simulation_pas_percolation.mp4" width="640" height="400" controls="" preload=""></video>
 
 # Analyse critique
 
