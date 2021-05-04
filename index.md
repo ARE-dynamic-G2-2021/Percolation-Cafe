@@ -85,7 +85,9 @@ On dévie aussi de la réalité car nous ajoutons l'eau sur toute la partie haut
 
 Pour conclure, la percolation est un phénoméne très commun qui est étudié dans plusieurs domaines scientifique. Nous simulation si limite à une représentation en 2D, d'ou les seuils de percolation assez exigeants.
 Notre simulation de percolateur de café est très spécifique du a ces certaines limites au niveau des facteurs.
-Nous voyons donc que grâce la taille des graines de café, leur volume et leur densité on peut savoir s'il y a percolation et en combien de temps.
+Nous voyons donc que grâce la taille des graines de café, leur volume et leur densité on peut savoir s'il y a percolation et en combien de temps.<br>
+
+Voici notre diaporama de présentation : <a href="https://are-dynamic-g2-2021.github.io/Percolation-Cafe/Percolation_du_Cafe"> C'est ici ! </a>
 
 ## Lien vers la page du blog : <a href="https://are-dynamic-g2-2021.github.io/Percolation-Cafe/blog"> C'est ici ! </a>
 
