@@ -7,8 +7,8 @@
 ## English Version 
 
 **What is percolation ?** Percolation refers to the movement and filtering of fluids through porous materials. This phenomenon depends on several factors such as the porosity, the density of the environment and its capacity to absorb water. <br><br>
-    Our project will focus on the effects of percolation while brewing coffee. Hence we will simulate a coffe percolator in which the fluid is represented by hot water and the porous environment by ground coffee.<br><br>
-    We will study the various consequences of some parameters such as coffee grind size and its density could have for the percolation process, which in turn affects the taste of our coffee.
+    Our project will focus on the effects of percolation while brewing coffee. Hence we will simulate a coffee percolator in which the fluid is represented by hot water and the porous environment by ground coffee.<br><br>
+    We will study how some parameters such as the coffee grind size and its density could impact the percolation process, which in turn affects the taste of our coffee.
 
 ## Présentation de l'équipe
 
